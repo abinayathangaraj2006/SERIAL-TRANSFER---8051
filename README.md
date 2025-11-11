@@ -36,7 +36,7 @@ while(TI==0); TI=0;
 
 {
 
-unsigned char msg[]="Programming 8051"; unsigned char i;
+unsigned char msg[]="MESSAGE"; unsigned char i;
 
 TMOD=0X20;//TIMER 1,MODE 2 TH1=0XFA;
 
@@ -56,11 +56,9 @@ while(1);
 
  
 **OUTPUT:**
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="943" height="204" alt="Screenshot 2025-10-27 105616" src="https://github.com/user-attachments/assets/e1bbc85b-c394-4ad9-8549-19dc511052bd" />
+<img width="180" height="65" alt="Screenshot 2025-10-27 105123" src="https://github.com/user-attachments/assets/901033a2-a25f-44e6-a112-93fdc783df50" />
+
 
 **Result:**
 
