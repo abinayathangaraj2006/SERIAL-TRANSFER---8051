@@ -1,5 +1,6 @@
 # SERIAL-TRANSFER-OF-SINGLE-BYTE-CHARACTER-USING-8051-KEIL.-EMBEDDED-C-PROGRAM-
 
+
 **AIM:** 
 
 To write and execute Embedded C Program for Serial Transfer of Single Byte / Character using 8051 KEIL
@@ -56,7 +57,8 @@ while(1);
 
  
 **OUTPUT:**
-<br>
+<br><img width="1919" height="1151" alt="image" src="https://github.com/user-attachments/assets/340fb257-1676-4554-887b-2afec1fb5566" />
+
 <br>
 <br>
 <br>
@@ -64,4 +66,4 @@ while(1);
 
 **Result:**
 
-Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
+Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the outpu
